@@ -1,0 +1,3 @@
+/Users/jadenperpignan/Developer/C++ Projects/Pokedex/cmake-build-debug/CMakeFiles/Pokedex.dir
+/Users/jadenperpignan/Developer/C++ Projects/Pokedex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jadenperpignan/Developer/C++ Projects/Pokedex/cmake-build-debug/CMakeFiles/rebuild_cache.dir

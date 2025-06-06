@@ -3,7 +3,7 @@
 #include "DatabaseEngine.h"
 #include "Pokemon.h"
 
-// Simple function to print dramatic ASCII "PokeOne" and caption
+
 void printHeader() {
     std::cout << R"(
   ____    ___    _  __   _____    ___    _   _   _____
